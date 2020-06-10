@@ -1,0 +1,1 @@
+FROM lachlanevenson/k8s-kubectl@sha256:95043fa03abd84fe1aed0b72f7991b379fdcd28fa77a1a163ec9ecd04bc33358
